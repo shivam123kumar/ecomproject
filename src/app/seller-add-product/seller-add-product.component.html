@@ -1,0 +1,37 @@
+<div class="container">
+  <h1>Add Product</h1>
+<form [formGroup]="Addproduct" (ngSubmit)="acceptProduct()">
+  <div class="form-group">
+    <label for="name">Name:</label>
+    <input type="text" placeholder="Enter product Name" id="name" name="name" required formControlName="name">
+  </div>
+  <div class="form-group">
+    <label for="price">Price:</label>
+    <input type="number" placeholder="Enter product Price" id="price" name="price" required formControlName="price">
+  </div>
+
+  <div class="form-group">
+    <label for="color">Color:</label>
+    <input type="text" id="color" placeholder="Enter product color" name="color" required formControlName="color">
+  </div>
+  <div class="form-group">
+    <label for="category">Category:</label>
+    <input type="text" id="category" placeholder="Enter product category" name="category" required formControlName="category">
+  </div>
+
+  <div class="form-group">
+    <label for="description">Description:</label>
+    <textarea id="description" placeholder="Enter product color" name="description" required formControlName="description"></textarea>
+  </div>
+
+  <div class="form-group">
+    <label for="image">Image:</label>
+    <input type="text" id="image" placeholder="Enter product img url" name="image" required formControlName="image">
+  </div>
+  <span class="toggle" style="color:green">{{addproductmessege}}</span>
+
+  <div class="form-group">
+    <button class="btn" type="submit">Add Product</button>
+  </div>
+</form>
+</div>

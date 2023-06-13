@@ -1,0 +1,38 @@
+<div class="container">
+    <h1>Update Product</h1>
+  <form #product="ngForm" (ngSubmit)="acceptProduct(product.value)">
+    <div class="form-group">
+      <label for="name">Name:</label>
+      <input type="text" placeholder="Enter product Name" ngModel="{{productData?.name}}"  id="name" name="name" required  >
+    </div>
+    <div class="form-group">
+      <label for="price">Price:</label>
+      <input type="number" placeholder="Enter product Price" ngModel="{{productData?.price}}" id="price" name="price" required >
+    </div>
+  
+    <div class="form-group">
+      <label for="color">Color:</label>
+      <input type="text" id="color" ngModel="{{productData?.color}}" placeholder="Enter product color" name="color" required >
+    </div>
+    <div class="form-group">
+      <label for="category">Category:</label>
+      <input type="text" id="category" ngModel="{{productData?.category}}" placeholder="Enter product category" name="category" required >
+    </div>
+  
+    <div class="form-group">
+      <label for="description">Description:</label>
+      <textarea id="description" ngModel="{{productData?.description}}" placeholder="Enter product color" name="description" required ></textarea>
+    </div>
+  
+    <div class="form-group">
+      <label for="image">Image:</label>
+      <input type="text" id="image" ngModel="{{productData?.image}}" placeholder="Enter product img url" name="image" required >
+    </div>
+    <p>{{updateshowmessege}}</p>
+
+  
+    <div class="form-group button">
+      <button class="btn" type="Update">Update Product</button>
+    </div>
+  </form>
+  </div>

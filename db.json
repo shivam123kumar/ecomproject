@@ -1,0 +1,423 @@
+{
+  "seller": [
+    {
+      "name": "Shivam Kumar",
+      "mobile": "9798613906",
+      "email": "vikashpawar188@gmail.com",
+      "password": "asd",
+      "id": 4
+    },
+    {
+      "name": "aditya",
+      "mobile": "07260945059",
+      "email": "kumarshivam843113@gmail.com",
+      "password": "gfghj",
+      "id": 5
+    },
+    {
+      "name": "Aditya",
+      "mobile": "07260945059",
+      "email": "kumarshivam843113@gmail.com",
+      "password": "Airforce",
+      "id": 6
+    },
+    {
+      "name": "Shivam",
+      "mobile": "8765432145",
+      "email": "oyeitsmyofficial@gmail.com",
+      "password": "Airforce@123",
+      "id": 7
+    },
+    {
+      "name": "peter",
+      "mobile": "9234543221",
+      "email": "peter@text.com",
+      "password": "peter",
+      "id": 8
+    },
+    {
+      "name": "Aman",
+      "mobile": "1234556789",
+      "email": "aman@text.com",
+      "password": "aman",
+      "id": 9
+    },
+    {
+      "name": "satyam",
+      "mobile": "1234567890",
+      "email": "satyam@gmail.com",
+      "password": "satyam",
+      "id": 10
+    },
+    {
+      "name": "ajit",
+      "mobile": "1234567543",
+      "email": "ajit@gmail.com",
+      "password": "ajit",
+      "id": 11
+    },
+    {
+      "name": "",
+      "mobile": "",
+      "email": "",
+      "password": "",
+      "id": 12
+    },
+    {
+      "name": "satyam ",
+      "mobile": "8651473633",
+      "email": "satyam@gmail.com",
+      "password": "satyam",
+      "id": 13
+    },
+    {
+      "name": "Amarjeet",
+      "mobile": "234565543",
+      "email": "hdgs",
+      "password": "gas",
+      "id": 14
+    },
+    {
+      "name": "Amarjeet",
+      "mobile": "234565543",
+      "email": "amarjeet@gmail.com",
+      "password": "1234",
+      "id": 15
+    },
+    {
+      "name": "Sumit ",
+      "mobile": "1234576432",
+      "email": "sumit@123",
+      "password": "sumit@123",
+      "id": 16
+    },
+    {
+      "name": "Ajay",
+      "mobile": "2533462632",
+      "email": "abcd@123",
+      "password": "adfghsd",
+      "id": 17
+    },
+    {
+      "name": "ajay",
+      "mobile": "2533462632",
+      "email": "abcd@123",
+      "password": "12345",
+      "id": 18
+    }
+  ],
+  "products": [
+    {
+      "name": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+      "price": "599",
+      "color": "blue",
+      "category": "electronics",
+      "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Sus. le -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+      "id": 16
+    },
+    {
+      "name": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+      "price": 999.999,
+      "color": "red",
+      "category": "electronics",
+      "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color an RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, andce input lag",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+      "id": 17
+    },
+    {
+      "name": "Iphone",
+      "price": 100000,
+      "color": "grey",
+      "category": "electronic",
+      "description": "best phone",
+      "image": "https://img5.gadgetsnow.com/gd/images/products/additional/large/G390874_View_1/mobiles/smartphones/apple-iphone-14-pro-max-1-tb-deep-purple-6-gb-ram-.jpg",
+      "id": 2
+    },
+    {
+      "name": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+      "price": "109",
+      "color": "Black",
+      "category": "electronics",
+      "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+      "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+      "id": 14
+    },
+    {
+      "name": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+      "price": "64",
+      "color": "Black",
+      "category": "",
+      "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be requfor other opecolorcol depending on user’s hardware configuration and opecolorcols",
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+      "id": 12
+    },
+    {
+      "name": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+      "price": "109",
+      "color": "Black",
+      "category": "electronics",
+      "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compto 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+      "id": 13
+    },
+    {
+      "name": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+      "price": "114",
+      "color": "blue",
+      "category": "electronics",
+      "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+      "id": 15
+    },
+    {
+      "name": "Iphone",
+      "price": 20000,
+      "color": "grey",
+      "category": "electronic",
+      "description": "best phone",
+      "image": "https://img5.gadgetsnow.com/gd/images/products/additional/large/G390874_View_1/mobiles/smartphones/apple-iphone-14-pro-max-1-tb-deep-purple-6-gb-ram-.jpg",
+      "id": 3
+    },
+    {
+      "name": "Oppo A74",
+      "price": "12000",
+      "color": "red",
+      "category": "Electronic",
+      "description": "Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC.\nSnapdragon 8+ Gen1, Octa Core, 3.2 GHz Processor.\n8 GB RAM, 256 GB inbuilt.\n5000 mAh Battery with 67W Fast Charging.\n7.1 inches, 1792 x 1920 px, 120 Hz Display with Punch Hole.\nFoldable Display, Dual Display.\n64 MP + 10 MP + 8 MP Triple Rear & 32 MP Front Camera.",
+      "image": "data:image/jpeg;base64,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",
+      "id": 24
+    },
+    {
+      "name": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 67,
+      "color": "Black",
+      "category": "men's clothing",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "id": 4
+    },
+    {
+      "name": "Mens Casual Premium Slim Fit T-Shirts ",
+      "price": 200,
+      "color": "white",
+      "category": "men's clothing",
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "id": 5
+    },
+    {
+      "name": "Mens Cotton Jacket",
+      "price": "400",
+      "color": "brown",
+      "category": "men's clothing",
+      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "id": 6
+    },
+    {
+      "name": "Mens Casual Slim Fit",
+      "price": "15.99",
+      "color": "Grey",
+      "category": "men's clothing",
+      "description": "The color ceen on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+      "id": 7
+    },
+    {
+      "name": "Lenovo Thinkbook",
+      "price": 54000,
+      "color": "grey",
+      "description": "Processor: 11th Gen Intel Core i3-1115G4 Processor 3.0 GHz (6M Cache, up to 4.1 GHz, 2 cores)\nMemory: 8GB (4GB DDR4 on board + 4GB DDR4 SO-DIMM) 3200MHz with | Storage: 512GB M.2 NVMe PCIe 3.0 SSD",
+      "image": "data:image/jpeg;base64,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",
+      "id": 1
+    },
+    {
+      "name": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "price": "695",
+      "color": "white",
+      "category": "jewelery",
+      "description": "From our Legends Collection, the Naga was inspby the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+      "id": 8
+    },
+    {
+      "name": "Solid Gold Petite Micropave ",
+      "price": "168",
+      "color": "white",
+      "category": "jewelery",
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+      "id": 9
+    },
+    {
+      "id": 10,
+      "name": "White Gold Plated Princess",
+      "price": 9.99,
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+      "color": "red"
+    },
+    {
+      "id": 11,
+      "name": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "price": 10.99,
+      "description": "Rose Gold Plated Double FlTunnel Plug Earrings. Made of 316L Stainless Steel",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+      "color": "red"
+    },
+    {
+      "id": 12,
+      "name": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+      "price": 64,
+      "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be requfor other opecolorcol depending on user’s hardware configuration and opecolorcols",
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+      "color": "red"
+    },
+    {
+      "id": 13,
+      "name": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+      "price": 109,
+      "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compto 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+      "color": "red"
+    },
+    {
+      "id": 14,
+      "name": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+      "price": 109,
+      "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+      "color": "red"
+    },
+    {
+      "id": 15,
+      "name": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+      "price": 114,
+      "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+      "color": "red"
+    },
+    {
+      "id": 16,
+      "name": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+      "price": 599,
+      "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Sus. le -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+      "color": "red"
+    },
+    {
+      "id": 17,
+      "name": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+      "price": 999.99,
+      "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color an RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, andce input lag",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+      "color": "red"
+    },
+    {
+      "id": 18,
+      "name": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+      "price": 56.99,
+      "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. ZippPockets: 2 ZippHand Pockets, 2 ZippPockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.ZippHand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+      "color": "red"
+    },
+    {
+      "id": 19,
+      "name": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+      "price": 29.95,
+      "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+      "color": "red"
+    },
+    {
+      "id": 20,
+      "name": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+      "price": 39.99,
+      "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+      "color": "red"
+    },
+    {
+      "id": 21,
+      "name": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+      "price": 9.85,
+      "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+      "color": "red"
+    },
+    {
+      "id": 22,
+      "name": "Opna Women's Short Sleeve Moisture",
+      "price": 7.95,
+      "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+      "color": "red"
+    },
+    {
+      "id": 23,
+      "name": "DANVOUY Womens T Shirt Casual Cotton Short",
+      "price": 12.99,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+      "color": "red"
+    },
+    {
+      "name": "Oppo A17",
+      "price": 23451,
+      "color": "white",
+      "category": "Electronic",
+      "description": "Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC.\nSnapdragon 8+ Gen1, Octa Core, 3.2 GHz Processor.\n8 GB RAM, 256 GB inbuilt.\n5000 mAh Battery with 67W Fast Charging.\n7.1 inches, 1792 x 1920 px, 120 Hz Display with Punch Hole.\nFoldable Display, Dual Display.\n64 MP + 10 MP + 8 MP Triple Rear & 32 MP Front Camer",
+      "image": "data:image/jpeg;base64,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",
+      "id": 25
+    },
+    {
+      "name": "RealmeX",
+      "price": 12000,
+      "color": "white",
+      "category": "Electronic",
+      "description": "very good phone",
+      "image": "https://fdn2.gsmarena.com/vv/pics/realme/realme-x-1.jpg",
+      "id": 26
+    }
+  ],
+  "users": [
+    {
+      "name": "Shivam Kumar",
+      "email": "oyeitsmyofficial@gmail.com",
+      "password": "shivam",
+      "id": 1
+    },
+    {
+      "name": "shivam kumar",
+      "email": "shivam@gmail.com",
+      "password": "shivam",
+      "id": 2
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 3
+    },
+    {
+      "name": "Ajit",
+      "email": "ajit@gmail.com",
+      "password": "ajit",
+      "id": 4
+    }
+  ]
+}

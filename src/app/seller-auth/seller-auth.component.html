@@ -1,0 +1,42 @@
+	<div *ngIf="!showlogin" class="container" #registration>
+		<h1>Seller Registration Form</h1>
+		<form [formGroup]="registrationform" (ngSubmit)="formSubmit()">
+			<label for="name">Name:</label>
+			<input type="text" id="name" placeholder="Enter Name" name="name" required formControlName="name">
+
+			<label for="mobile">Mobile Number:</label>
+			<input type="tel" id="mobile" name="mobile" placeholder="Enter contact" pattern="[0-9]{10}" required formControlName="mobile">
+
+			<label for="email">Email Address:</label>
+			<input type="email" id="email" name="email" placeholder="Enter email" required formControlName="email">
+
+			<label for="password">Password:</label>
+			<input type="password" id="password" name="password" placeholder="Enter password" required formControlName="password">
+
+			<button type="submit" class="btn">Submit</button>
+			<span class="toggle" style="color:green">{{messege}}</span>
+			<a (click)="openLogin()" class="toggle"  >Already Have Account? Click to Login</a>
+		</form>
+	     </div>
+
+
+
+
+		 <!-- LoginForm -->
+		<div *ngIf="showlogin" class="container">
+		<h1>Seller Login In</h1>
+		<p>{{loginerror}}</p>
+
+		<form [formGroup]="LoginForm" (ngSubmit)="formLogin()">
+			
+
+			<label for="email">Email Address:</label>
+			<input type="email" id="email" placeholder="Enter email" name="email" required formControlName="email">
+
+			<label for="password">Password:</label>
+			<input type="password" id="password" placeholder="Enter password" name="password" required formControlName="password">
+
+			<button type="submit" class="btn">Login</button>
+			<a class="toggle" (click)="openSignup()" >Don't Have Account? Create Account</a>
+		</form>
+	</div>

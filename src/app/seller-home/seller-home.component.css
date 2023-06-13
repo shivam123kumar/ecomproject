@@ -1,0 +1,14 @@
+tr,th,td{
+    border:1px solid blue;
+    color: blue;
+}
+table{
+    border-collapse: collapse;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+a{
+    padding-left: 1rem;
+}
